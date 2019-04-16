@@ -1,7 +1,7 @@
-nota1 = float(input())
-nota2 = float(input())
-nota3 = float(input())
-nota4 = float(input())
+nota1 = float(input("Digite a primeira nota: "))
+nota2 = float(input("Digite a segunda nota: "))
+nota3 = float(input("Digite a terceira nota: "))
+nota4 = float(input("Digite a quarta nota: "))
 
 soma = nota4 + nota3 + nota2 + nota1
 media = soma/4
